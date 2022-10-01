@@ -1,5 +1,4 @@
-# githubC2
-## NOTICE : POST issue's comment API is not working , @github is looking for a patch for that C2 LOL!!       
+# githubC2         
 Abusing Github API to host our C2 traffic, usefull for bypassing blocking firewall rules if github is in the target white list , and in case you don't have C2 infrastructure , now you have a free one  
 I want to Thank boku7 for inspiring me with this project (https://github.com/boku7/azureOutlookC2)  
 You better use a private respository in your process  
